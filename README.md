@@ -295,11 +295,11 @@ In this way, all possible atomisitc models for the chemical diversity of the dat
 # References
 **[1]** R. Bader, Atoms in Molecules: A Quantum Theory, of International series of monographs on chemistry, Oxford University Press, Oxford, 1990.
 
-**[2]** (a) Miguel Gallegos, José Manuel Guevara-Vela, and Ángel Martín Pendás , The Journal of Chemical Physics, 156, 014112 (2022). (b)  https://github.com/m-gallegos/NNAIMQ
+**[2]** (a) M. Gallegos, J.M. Guevara-Vela, and A. Martín Pendás , The Journal of Chemical Physics, 156, 014112 (2022). (b)  https://github.com/m-gallegos/NNAIMQ
 
 **[3]** O'Boyle, N.M., Banck, M., James, C.A. et al. The Journal of Cheminformatics, 3, 33 (2011). 
 
-**[4]** Jörg Behler , The Journal of Chemical Physics, 134, 074106 (2011).
+**[4]** J. Behler , The Journal of Chemical Physics, 134, 074106 (2011).
 
 **[5]** J. Behler and M. Parrinello, Physical Review Letters, 98, 146401 (2007).
 
