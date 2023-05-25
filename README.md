@@ -301,7 +301,7 @@ In this way, all possible atomisitc models for the chemical diversity of the dat
 
 **[4]** Jörg Behler , J. Chem. Phys. 134, 074106 (2011) https://doi.org/10.1063/1.3553717
 
-**[5]** J. Behler and M. Parrinello, Physical Review Letters, 2007, 98, year.
+**[5]** J. Behler and M. Parrinello, Physical Review Letters, 2007, 98.
 
 **[6]** M. Gastegger, L. Schwiedrzik, M. Bittermann, F. Berzsenyi and P. Marquetand, The Journal of Chemical Physics, 2018, 148, 241709.
 
