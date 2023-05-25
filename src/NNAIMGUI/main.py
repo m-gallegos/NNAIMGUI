@@ -443,7 +443,7 @@ if (args.gui_interface == "no"):
             charges_eq = charge_corr()
             prop=charges_eq.copy()
          else:                              
-            w= weight_calc(ceq_num)
+            w= weight_calc()
             charges_eq = charge_corr() 
             prop=charges_eq.copy()
       if (args.fsave == "yes"): 
