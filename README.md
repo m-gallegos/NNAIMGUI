@@ -295,14 +295,14 @@ In this way, all possible atomisitc models for the chemical diversity of the dat
 # References
 **[1]** R. Bader, Atoms in Molecules: A Quantum Theory, of International series of monographs on chemistry, Oxford University Press, Oxford, 1990.
 
-**[2]** (a) Miguel Gallegos, José Manuel Guevara-Vela, and Ángel Martín Pendás , J. Chem.Phys. 156, 014112 (2022) https://doi.org/10.1063/5.0076896. (b)  https://github.com/m-gallegos/NNAIMQ
+**[2]** (a) Miguel Gallegos, José Manuel Guevara-Vela, and Ángel Martín Pendás , The Journal of Chemical Physics, 156, 014112 (2022). (b)  https://github.com/m-gallegos/NNAIMQ
 
-**[3]** O'Boyle, N.M., Banck, M., James, C.A. et al.J Cheminform 3, 33 (2011). https://doi.org/10.1186/1758-2946-3-33.
+**[3]** O'Boyle, N.M., Banck, M., James, C.A. et al. The Journal of Cheminformatics, 3, 33 (2011). 
 
-**[4]** Jörg Behler , J. Chem. Phys. 134, 074106 (2011) https://doi.org/10.1063/1.3553717
+**[4]** Jörg Behler , The Journal of Chemical Physics, 134, 074106 (2011).
 
-**[5]** J. Behler and M. Parrinello, Physical Review Letters, 2007, 98.
+**[5]** J. Behler and M. Parrinello, Physical Review Letters, 98, 146401 (2007).
 
-**[6]** M. Gastegger, L. Schwiedrzik, M. Bittermann, F. Berzsenyi and P. Marquetand, The Journal of Chemical Physics, 2018, 148, 241709.
+**[6]** M. Gastegger, L. Schwiedrzik, M. Bittermann, F. Berzsenyi and P. Marquetand, The Journal of Chemical Physics, 148, 241709 (2018).
 
-**[7]** J. S. Smith, O. Isayev and A. E. Roitberg, Chemical Science, 2017, 8, 3192–3203.
+**[7]** J. S. Smith, O. Isayev and A. E. Roitberg, Chemical Science, 8, 3192–3203 (2017).
