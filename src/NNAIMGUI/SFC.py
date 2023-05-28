@@ -240,7 +240,7 @@ def sfc_calc(label,coord,model_path):
                     elif (type_ang == 3):
                         for p in range(nang[telem_i-1, neigh_id-1]):
                             fpepe = ((2**(1-xi_ang[telem_i-1, neigh_id-1, p])) * 
-                                     (((1 + np.cos(theta-theta_s[telem_i-1, neigh_id-1, p])) * xi_ang[telem_i-1, neigh_id-1, p]) * 
+                                     (((1 + np.cos(theta-theta_s[telem_i-1, neigh_id-1, p])) ** xi_ang[telem_i-1, neigh_id-1, p]) * 
                                       np.exp(-eta_ang[telem_i-1, neigh_id-1, p]*((((distij+distik)/2)-rs_ang[telem_i-1, neigh_id-1, p])**2))) * 
                                      fcutij * fcutik)
                             angular[i, neigh_id-1, p] += fpepe
