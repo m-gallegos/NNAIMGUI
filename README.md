@@ -1,5 +1,7 @@
 # NNAIMGUI
 
+https://doi.org/10.1021/acs.jcim.3c00597
+
 v.0.0.1
 M. Gallegos, University of Oviedo, 2023
 
