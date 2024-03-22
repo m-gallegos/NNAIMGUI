@@ -341,7 +341,7 @@ def xyz2dtbase(datafile="data.txt",itype="input.type",rtype="input.rad",atype="i
           nang = np.zeros((telem, idum),dtype=int)
           for i in range(1, telem * (telem * (telem + 1) // 2) + 1):
               ni, nj, idum = map(int, f.readline().strip().split()[:3])
-              pepe = intpos(vecino, telem * (telem + 1) // 2, nj)-1
+              pepe = SFC.intpos(vecino, telem * (telem + 1) // 2, nj)-1
               nang[ni-1, pepe] = idum
               for k in range(1, idum + 1):
                   rs_ang[ni-1, pepe, k-1], xi_ang[ni-1, pepe, k-1], eta_ang[ni-1, pepe, k-1], lambda_ang[ni-1, pepe, k-1] = map(float, f.readline().strip().split()[:4])
@@ -354,7 +354,7 @@ def xyz2dtbase(datafile="data.txt",itype="input.type",rtype="input.rad",atype="i
           nang = np.zeros((telem, idum),dtype=int)
           for i in range(1, telem * (telem * (telem + 1) // 2) + 1):
              ni, nj, idum = map(int, f.readline().strip().split()[:3])
-             pepe = intpos(vecino, telem * (telem + 1) // 2, nj)-1
+             pepe = SFC.intpos(vecino, telem * (telem + 1) // 2, nj)-1
              nang[ni-1, pepe] = idum
              for k in range(1, idum + 1):
                  rs_ang[ni-1, pepe, k-1], xi_ang[ni-1, pepe, k-1], eta_ang[ni-1, pepe, k-1], theta_s[ni-1, pepe, k-1] = map(float, f.readline().strip().split()[:4])
